@@ -1,0 +1,13 @@
+/* Estilo por defecto para los botones del menú lateral */
+.nav-link {
+    background-color: #f8f8f8 !important;
+    color: #333 !important;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+/* Estilo cuando el botón está activo */
+.nav-link.active {
+    background-color: #17a2b8 !important;
+    color: white !important;
+}
